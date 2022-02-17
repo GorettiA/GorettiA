@@ -1,9 +1,9 @@
-### Talofa Lava! 👋
+### Talofa Lava!
 ![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQGv60Cce_y0jg/profile-displaybackgroundimage-shrink_200_800/0/1644629527112?e=1650499200&v=beta&t=vryBIr_FfEZ0D0V_8tJJHBTKN4peQ02lUL_Ob5iH_c0)
 
 I've just finished up from Dev Academy, Auckland and I am keen to transition into the tech industry as a Web Developer. 
 
-I hope to amplify the voice of the underrepresented Maori and Pasifika women in tech and look forward combining my enthusiasm for tech to enhance a community and be a part of positive growth and change in the industry. 
+I hope to amplify the voice of the underrepresented Maori and Pasifika women in tech and look forward to combining my enthusiasm for tech to enhance a community and be a part of positive growth and change in the industry. 
 
 Skills: REACT / JS / HTML / CSS
 
