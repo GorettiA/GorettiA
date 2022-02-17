@@ -7,12 +7,10 @@ I've just finished up from Dev Academy, Auckland and I am keen to transition int
 
 I hope to amplify the voice of the underrepresented Maori and Pasifika women in tech and look forward to combining my enthusiasm for tech to enhance a community and be a part of positive growth and change in the industry. 
 
-**Tech Skills:** REACT / JS / HTML / CSS  
-**Human Skills:** Easy-going / Teachable / Friendly / Kind / Extremely Empathetic
+**Tech Skills:** REACT | JS | HTML | CSS  
 
-- 🔭 I’m currently working on my portfolio and finally mastering the wheel pose! Is it supposed to hurt? 
-- 🌱 I’m currently learning Javascript..always Javascript 
-- 📫 How to reach me: gorettialani@gmail.com 
+**Human Skills:** Easy-going | Teachable | Friendly | Kind | Extremely Empathetic
+
 - ⚡ Fun fact: Just a few years ago I got to bike around a tiny, peaceful island in Okinawa, Japan and it was the first time I'd ever ridden a bike. Yep - I only learned to ride a bike in my 30's. It was electric so that helped, plus the accompanying crow flying overhead had taunt mode activated. Made it back to the accommodation but it hurt to sit for a week!  
 
 
