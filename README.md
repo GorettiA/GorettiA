@@ -9,7 +9,8 @@ I hope to amplify the voice of the underrepresented Maori and Pasifika women in 
 
 **Tech Skills:** REACT | JS | HTML | CSS  
 
-**Human Skills:** Easy-going | Teachable | Friendly | Kind | Extremely Empathetic
+**Human Skills:** Easy-going | Teachable | Friendly | Kind | Extremely Empathetic  
+
 
 - ⚡ Fun fact: Just a few years ago I got to bike around a tiny, peaceful island in Okinawa, Japan and it was the first time I'd ever ridden a bike. Yep - I only learned to ride a bike in my 30's. It was electric so that helped, plus the accompanying crow flying overhead had taunt mode activated. Made it back to the accommodation but it hurt to sit for a week!  
 
