@@ -1,5 +1,4 @@
-### Talofa Lava! 👋, Goretti
-#### Web Developer
+### Talofa Lava! 👋
 ![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQGv60Cce_y0jg/profile-displaybackgroundimage-shrink_200_800/0/1644629527112?e=1650499200&v=beta&t=vryBIr_FfEZ0D0V_8tJJHBTKN4peQ02lUL_Ob5iH_c0)
 
 I've just finished up from Dev Academy, Auckland and I am keen to transition into the tech industry as a Web Developer. 
@@ -8,7 +7,7 @@ I hope to amplify the voice of the underrepresented Maori and Pasifika women in 
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on My portfolio and finally mastering the wheel pose! Is it supposed to hurt? 
+- 🔭 I’m currently working on my portfolio and finally mastering the wheel pose! Is it supposed to hurt? 
 - 🌱 I’m currently learning Javascript..always Javascript 
 - 📫 How to reach me: gorettialani@gmail.com 
 - ⚡ Fun fact: Just a few years ago I got to bike around a tiny, peaceful island in Okinawa, Japan and it was the first time I'd ever ridden a bike. Yep - I only learned to ride a bike in my 30's. It was electric so that helped, plus the accompanying crow flying overhead had taunt mode activated. Made it back to the accommodation but it hurt to sit for a week!  
