@@ -7,7 +7,7 @@ I've just finished up from Dev Academy, Auckland and I am keen to transition int
 
 I hope to amplify the voice of the underrepresented Maori and Pasifika women in tech and look forward to combining my enthusiasm for tech to enhance a community and be a part of positive growth and innovation within the industry. 
 
-**Tech Skills:** REACT | JS | HTML | CSS  
+**Tech Skills:** REACT | JS | HTML | CSS | MySQL
 
 **Human Skills:** Easy-going | Teachable | Friendly | Extremely Empathetic  
 
