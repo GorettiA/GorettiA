@@ -3,7 +3,7 @@
 
 ### Talofa Lava!
 
-I've just finished up from Dev Academy, Auckland and I am keen to transition into the tech industry as a Web Developer. 
+I'm a junior full stack developer based in Tamaki Makaurau, New Zealand. 
 
 I hope to amplify the voice of the underrepresented Maori and Pasifika women in tech and look forward to combining my enthusiasm for tech to enhance a community and be a part of positive growth and innovation within the industry. 
 
